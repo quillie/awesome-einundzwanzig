@@ -11,9 +11,29 @@ Any comments, suggestions? [Let us know!](https://github.com/quilloughbee/awesom
 
 ## nostr
 
+
+### bots
+
+- [einundzwanzig search bot](https://sb.nostr.band/?bot=einundzwanzig&)
+- [einundzwanzig search bot on nostr](https://primal.net/p/npub19ey5v3yurhrjvg0pz0ta5e29r0jnjxtzymrjvfszav5gs65qle2q8c9yd4) 
+
+- [The Pleb Rap Bot](https://primal.net/p/npub1p2py3wq4k8v89msk00mmezugjhhuz7hjs0cce5nh6rfqhcy48c0qr66rap)
+
+
+## chat
+
+- [Einundzwanzig nostr group on Telegram]()
+
+### community
+
+- [Einundzwanzig Podcast on nostr]()
+- [Einundzwanzig Saarland on nostr]()
+- [Einundzwanzig Saarland on nostr]()
+
+
 ## contributors
 
-This repo exists thanks to all the [plebs](https://github.com/quilloughbee/awesome-pleb-projects/graphs/contributors) who contribute.
+This repo exists thanks to all the [plebs](https://github.com/quilloughbee/awesome-einundzwanzig/graphs/contributors) who contribute.
 
 ## value-4-value
 
